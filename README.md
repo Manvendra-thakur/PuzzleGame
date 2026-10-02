@@ -1,5 +1,5 @@
 # PuzzleGame
-Puzzle Number game 
+Puzzle Number Sliding game 
 ## Tech Stack
 - Core Java
 - Java Swing
